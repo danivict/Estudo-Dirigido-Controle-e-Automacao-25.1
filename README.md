@@ -32,4 +32,3 @@ Este estudo dirigido visa consolidar o conteúdo da disciplina de **Controle e A
 - [Capítulo 7](https://drive.google.com/file/d/17Zs3xuiDjwIdZjjtCgPI9P18a0VTe9nu/view?usp=sharing)
 - [Capítulo 10](https://drive.google.com/file/d/11N7qCdlsX8lWZtlQO0ydLM7VzUw3b4Cx/view?usp=sharing)
 - [Capítulo 13](https://drive.google.com/file/d/12bmrC5UIm2C0jLD4NLOqLANtbWUciPcu/view?usp=sharing)
-- 
