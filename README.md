@@ -23,3 +23,13 @@ Este estudo dirigido visa consolidar o conteúdo da disciplina de **Controle e A
 
 * Python (Jupyter Notebooks)
 * Bibliotecas: NumPy, Matplotlib, SciPy (dentre outras)
+
+## Links para cada um dos capítulos no Google Colab
+
+- [Capítulo 4](https://colab.research.google.com/drive/19r1DlRhjgGV0xtg5oedorahb7me3fwRP?usp=sharing)
+- [Capítulo 5](https://colab.research.google.com/drive/18jCNQ10jhoAKpC1kSyxSvCuov8h0rYsa?usp=sharing)
+- [Capítulo 6](https://drive.google.com/file/d/1H76R5UxKcO3ESmQCvfKfxY32Z8eUhB0W/view?usp=sharing)
+- [Capítulo 7](https://drive.google.com/file/d/17Zs3xuiDjwIdZjjtCgPI9P18a0VTe9nu/view?usp=sharing)
+- [Capítulo 10](https://drive.google.com/file/d/11N7qCdlsX8lWZtlQO0ydLM7VzUw3b4Cx/view?usp=sharing)
+- [Capítulo 13](https://drive.google.com/file/d/12bmrC5UIm2C0jLD4NLOqLANtbWUciPcu/view?usp=sharing)
+- 
